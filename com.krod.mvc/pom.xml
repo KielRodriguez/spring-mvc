@@ -10,7 +10,7 @@
 
 	<modules>
 		<module>krod-mvc-view</module>
-    <module>krod-mvc-testweb</module>
+    <module>krod-mvc-app</module>
   </modules>
 
 	<properties>
